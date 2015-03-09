@@ -1,0 +1,9 @@
+.sass-cache
+.idea
+.DS_Store
+*.swp
+*.swo
+node_modules
+*.log
+
+sass/_common/images/
